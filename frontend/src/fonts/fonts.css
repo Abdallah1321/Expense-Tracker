@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-SemiBold.woff2') format('woff2'),
+    url('../fonts/Gilroy-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-UltraLight.woff2') format('woff2'),
+    /*src: url('fonts/Gilroy-UltraLight.woff2') format('woff2'),*/
+    /*url('fonts/Gilroy-UltraLight.woff') format('woff');*/
+    url('../fonts/Gilroy-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*.wallet-card {*/
+/*    background-color: #4C4DE4;*/
+/*    height: 345px;*/
+/*    width: 595px;*/
+/*    border-radius: 25px;*/
+/*}*/
+
+/*.walletHeader {*/
+/*    font-size: 40px;*/
+/*    font-family: Gilroy, "Open Sans";*/
+/*    font-weight: 600;*/
+/*}*/
+
+/*.walletBalance {*/
+/*    font-size: 28px;*/
+/*    font-family: Gilroy, "Open Sans";*/
+/*    font-weight: 200;*/
+/*}*/
+
+/*.walletDescription {*/
+/*    font-size: 16px;*/
+/*    font-family: Gilroy, "Open Sans";*/
+/*    font-weight: 600*/
+/*}*/

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Tokens should return the doc with findById: findById query 1`] = `
+Object {
+  "_id": Object {
+    "_id": "507f191e810c19729de860ea",
+  },
+}
+`;
